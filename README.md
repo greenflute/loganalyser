@@ -43,3 +43,6 @@ Douglas Test: LogAnalyser
 	
 #	TODO
 1.	log4j instead of console output ?
+
+#	RUN
+1.	mvn package, then check the output about optional -Dmode and -Dkeywords
